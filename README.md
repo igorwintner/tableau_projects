@@ -1,6 +1,6 @@
 # Some of my Tableau projects
 ## 🍿 Netflix Dashboard
-![Alt text](netflix_dashboard.png)
+![Alt text](images\netflix_dashboard.png)
 🔗 [Link to the project](https://public.tableau.com/app/profile/igor.wintner/viz/NetflixDashboard_17104078979880/NetflixDashboard)
 
 - **Title and Overview:** Information about the type, date added, duration, genre, age rating, and release year.
@@ -16,7 +16,7 @@
 - 📈 **Total Movies & TV Shows by Years:** Area chart indicating the total number of movies and TV shows over the years.
 
 ## 🧪 Breaking Bad Dashboard
-![Alt text](breaking_bad_dashboard.png)
+![Alt text](images\breaking_bad_dashboard.png)
 🔗 [Link to the project](https://public.tableau.com/app/profile/igor.wintner/viz/breaking_bad_dashboard/Dashboard1)
 
 - **Title and Overview:** Overview of the series, main characters, and a brief summary.
@@ -32,7 +32,7 @@
 - 🧫 **U.S. Viewers in Millions by Year:** Area chart displaying the number of U.S. viewers in millions over the years.
 
 ## 📈 Stocks Dashboard
-![Alt text](stocks_dashboard.png)
+![Alt text](images\stocks_dashboard.png)
 🔗 [Link to the project](https://public.tableau.com/app/profile/igor.wintner/viz/stocks_dashboard/Dashboard)
 
 - **Title and Overview:** Key information about the stock market data, including start and end dates, company names, and significant statistics.
