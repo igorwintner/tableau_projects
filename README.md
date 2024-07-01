@@ -41,6 +41,6 @@
 
 - 💹 **Price Percent Change:** Histogram displaying the distribution of price changes for various companies.
 
-- 📉 **Moving Average (Opening Price):** Line chart indicating the moving averages of opening prices for different companies.
+- 📉 **Moving Average (Opening Price):** Line chart indicating the moving averages of opening prices for different companies (used Python Pandas for creating this).
 
 - 💼 **Stock Data Summary:** Table summarizing key stock data such as closing prices, volume changes, and percentage changes for companies such as Apple, nVidia, Twitter or Tesla.
